@@ -1,0 +1,12 @@
+[submodule "VIPV-surCO-Client"]
+	path = VIPV-surCO-Client
+	url = https://github.com/isi-ies-group/VIPV-surCO-Client
+	branch = main
+[submodule "VIPV-surCO-Server"]
+	path = VIPV-surCO-Server
+	url = https://github.com/isi-ies-group/VIPV-surCO-Server
+	branch = main
+[submodule "VIPV-surCO-Reader"]
+	path = VIPV-surCO-Reader
+	url = https://github.com/isi-ies-group/VIPV-surCO-Reader
+	branch = main
