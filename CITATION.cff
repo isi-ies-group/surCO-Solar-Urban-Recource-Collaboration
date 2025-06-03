@@ -1,0 +1,85 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  surCO: a data crowdsourcing initiative for the analysis of
+  vehicle-integrated photovoltaics in urban environments
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Echedey
+    family-names: Luis
+    email: echedey.luis.alvarez@upm.es
+    affiliation: >-
+      Instituto de Energía Solar, Universidad Politécnica de
+      Madrid
+    orcid: 'https://orcid.org/0009-0009-0253-267X'
+  - given-names: Marina
+    family-names: Álvarez
+    affiliation: >-
+      Escuela Técnica Superior de Ingeniería y Diseño
+      Industrial, Universidad Politécnica Madrid
+  - given-names: Marcos
+    family-names: Velázquez
+    affiliation: >-
+      Escuela Técnica Superior de Ingeniería y Diseño
+      Industrial, Universidad Politécnica Madrid
+  - given-names: Raquel
+    family-names: Cedazo
+    email: raquel.cedazo@upm.es
+    affiliation: >-
+      Escuela Técnica Superior de Ingeniería y Diseño
+      Industrial, Universidad Politécnica Madrid
+    orcid: 'https://orcid.org/0000-0002-4361-4331'
+  - given-names: Luis
+    family-names: Dávila
+    email: luis.davila@upm.es
+    affiliation: >-
+      Escuela Técnica Superior de Ingeniería y Diseño
+      Industrial, Universidad Politécnica Madrid
+    orcid: 'https://orcid.org/0000-0002-0592-7097'
+  - given-names: Rebeca
+    family-names: Herrero
+    email: rebeca.herrero@upm.es
+    affiliation: >-
+      Instituto Energía Solar, Universidad Politécnica
+      Madrid; Escuela Técnica Superior de Ingeniería y
+      Diseño Industrial, Universidad Politécnica Madrid
+    orcid: 'https://orcid.org/0000-0003-4309-6084'
+  - given-names: Rubén
+    family-names: Núñez
+    email: ruben.nunez@upm.es
+    affiliation: >-
+      Instituto Energía Solar, Universidad Politécnica
+      Madrid; Escuela Técnica Superior de Ingeniería y
+      Diseño Industrial, Universidad Politécnica Madrid
+    orcid: 'https://orcid.org/0000-0001-9160-5416'
+  - given-names: Ignacio
+    family-names: Antón
+    email: i.anton@upm.es
+    affiliation: >-
+      Instituto Energía Solar, Universidad Politécnica
+      Madrid
+    orcid: 'https://orcid.org/0000-0002-6890-5477'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.15575916
+    description: All versions DOI
+repository-code: >-
+  https://github.com/isi-ies-group/surCO-Solar-Urban-Recource-Collaboration
+url: 'https://surco.ies.upm.es/'
+abstract: >-
+  This software is a set of sensor configuration files,
+  client-side apps, server endpoint and data readers, to
+  acquire irradiance measurements on vehicle surfaces via
+  magnet-attached sensors with second resolution.
+keywords:
+  - pv
+  - photovoltaics
+  - vipv
+  - Citizen Science
+  - Crowdsourced Science
+license: MIT
