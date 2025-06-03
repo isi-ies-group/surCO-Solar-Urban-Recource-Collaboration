@@ -32,4 +32,6 @@ Since the project is in early development with a small group of testers, big cha
 
 License is MIT. See `LICENSE`.
 
-Copyright © Instrumentation and Systems Integration group, Instituto de Energía Solar, Universidad Politécnica de Madrid. 2024, 2025.
+Developed by Instrumentation and Systems Integration group, Instituto de Energía Solar.
+
+Copyright © Universidad Politécnica de Madrid. 2024, 2025.
