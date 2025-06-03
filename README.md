@@ -15,12 +15,12 @@ This repo may be considered a long-term reference of the tools used in *surCO*.
 ## Instructions
 
 If submodules have not already been initialized in the clone command, you may set up this repo by using the helper scripts in `/scripts`. Run:
-- Unix-OS: ./scripts/git-setup-submodules
-- Windows: type .\scripts\git-setup-submodules | cmd
-
+- Unix-OS: `./scripts/git-setup-submodules`
+- Windows: `type .\scripts\git-setup-submodules | cmd`
+`
 For fetching (updating) the latests changes from each subproject remote, do:
-- Unix-OS: ./scripts/git-update-fetch-submodules
-- Windows: type .\scripts\git-update-fetch-submodules | cmd
+- Unix-OS: `./scripts/git-update-fetch-submodules`
+- Windows: `type .\scripts\git-update-fetch-submodules | cmd`
 
 In any case, you can always use each project individually.
 
