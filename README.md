@@ -2,6 +2,12 @@
 
 *surCO* is a data-crowdsourced initiative that aims to quantify the energy yield of vehicle-integrated photovoltaics (VIPV).
 
+## Citing
+
+[![DOI (latest release)](https://zenodo.org/badge/DOI/10.5281/zenodo.15575916.svg)](https://doi.org/10.5281/zenodo.15575916)
+
+DOIs for specific releases can be found at the Zenodo record page through the badge link.
+
 ## This monorepo
 
 Via submodules, this monorepo contains each individual project. Three main purposes are filled by each one:
